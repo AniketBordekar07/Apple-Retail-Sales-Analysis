@@ -49,10 +49,6 @@ The project uses five main tables:
 
 ## Objectives
 
-The project is split into three tiers of questions to test SQL skills of increasing complexity:
-
-### Easy to Medium (10 Questions)
-
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
 3. Identify how many sales occurred in December 2023.
@@ -63,26 +59,17 @@ The project is split into three tiers of questions to test SQL skills of increas
 8. Find the average price of products in each category.
 9. How many warranty claims were filed in 2020?
 10. For each store, identify the best-selling day based on highest quantity sold.
-
-### Medium to Hard (5 Questions)
-
 11. Identify the least selling product in each country for each year based on total units sold.
 12. Calculate how many warranty claims were filed within 180 days of a product sale.
 13. Determine how many warranty claims were filed for products launched in the last two years.
 14. List the months in the last three years where sales exceeded 5,000 units in the USA.
 15. Identify the product category with the most warranty claims filed in the last two years.
-
-### Complex (5 Questions)
-
 16. Determine the percentage chance of receiving warranty claims after each purchase for each country.
 17. Analyze the year-by-year growth ratio for each store.
 18. Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
 19. Identify the store with the highest percentage of "Paid Repaired" claims relative to total claims filed.
 20. Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
-
-### Bonus Question
-
-- Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
+21. Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
 
 ## Project Focus
 
