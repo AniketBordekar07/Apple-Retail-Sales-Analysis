@@ -90,6 +90,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Conclusion
 
-By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
+Through this project, I have significantly enhanced my SQL skills, particularly in writing complex queries using joins, subqueries, aggregate functions, and Common Table Expressions (CTEs). I learned how to analyze and manipulate large datasets efficiently and draw meaningful insights that can support real-world business decisions. This hands-on experience has deepened my understanding of relational databases and query optimization. Completing this project has not only strengthened my technical abilities but also added a valuable asset to my portfolio that showcases my practical expertise in data analysis and problem-solving using SQL.
 
 ---
